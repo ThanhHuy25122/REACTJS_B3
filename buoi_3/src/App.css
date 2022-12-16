@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.max-width-100 {
+  max-width: 100px;
+}
+
+.min-height-550 {
+  min-height: 550px;
+}
+
+.card-title {
+  min-height: 60px;
+}
+
+.card-price {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}

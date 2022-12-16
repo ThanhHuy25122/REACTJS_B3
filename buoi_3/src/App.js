@@ -1,10 +1,12 @@
 import "./App.css";
-import ShoeList from "./components/ShoeList/ShoeList";
+// import BaiTapGiay from "./components/BaiTapGiay/BaiTapGiay";
+import BaiTapGiayRedux from "./components/BaiTapGiayRedux/BaiTapGiay";
 
 function App() {
   return (
     <div className="app">
-      <ShoeList />
+      {/* <BaiTapGiay /> */}
+      <BaiTapGiayRedux />
     </div>
   );
 }
